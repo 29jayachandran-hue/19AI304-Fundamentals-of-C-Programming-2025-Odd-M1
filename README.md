@@ -26,7 +26,9 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
+![1](https://github.com/user-attachments/assets/63754af7-7284-4102-9573-bd7e212309a9)
 # Output:
+![1output](https://github.com/user-attachments/assets/999ea896-7f37-4212-b943-8eb18c7a55cd)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -57,7 +59,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+![2](https://github.com/user-attachments/assets/51ba6a7c-19b4-40b2-95bb-4014e76f0e79)
 # Output:
+![2output](https://github.com/user-attachments/assets/d07bf957-ea12-45d8-bb5e-b01f86c22f34)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -81,8 +85,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+![3](https://github.com/user-attachments/assets/4567182c-8f65-4bdb-9534-2c62a53bed3a)
 # Output:
+![3output](https://github.com/user-attachments/assets/37d5d5f9-603f-403c-b084-4c94742b44e2)
 # Result: 
+Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
 # IAPR-1- Module 1 - FoC
@@ -120,7 +127,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+![4](https://github.com/user-attachments/assets/49739278-5cd8-4899-a690-57ee29575c65)
 # Output:
+![4otput](https://github.com/user-attachments/assets/bca734e6-c1f7-491d-b25f-a6ff3355b2e9)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -165,7 +174,10 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+![5](https://github.com/user-attachments/assets/c15fe5bd-b0e7-4383-b500-5f848be7d3f2)
 # Output:
+![5output1](https://github.com/user-attachments/assets/a31006b3-71fa-44dc-9567-f7d7bc79ce56)
+![5ouput2](https://github.com/user-attachments/assets/cd144cbc-c65e-4b90-b803-30fb5825857e)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
